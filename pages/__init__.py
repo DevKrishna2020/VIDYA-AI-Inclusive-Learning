@@ -1,0 +1,1 @@
+"""VIDYA pages package"""
